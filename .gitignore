@@ -1,0 +1,4 @@
+node_modules
+.vscode
+public/index.js*
+package-lock.json
